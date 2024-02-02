@@ -1,4 +1,3 @@
-![image](https://github.com/MeikoFudo/final-project/assets/80260272/ad8ee6a5-2fcd-46cf-b427-26790fe1c0d3)# final-project
 Источники данных
 Общий вес данных около 5 гб. Поэтому привожу ссылки на данные. 
 
@@ -48,3 +47,4 @@ Deep Learning (семестр 1, осень 2023). Финальный проек
 7). Поиск путей применения этой модели в бизнесе/реальных задачах/набросок встраивания в веб/мобильное демо
 ![image](https://github.com/MeikoFudo/final-project/assets/80260272/85ce116a-63c3-4cc0-b0aa-71ab986976de)
 
+![image](https://github.com/MeikoFudo/final-project/assets/80260272/4ee1980b-dad1-4bb4-aaac-e0aa2543e299)

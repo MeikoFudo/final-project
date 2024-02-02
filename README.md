@@ -1,4 +1,11 @@
 # final-project
+Источники данных
+Общий вес данных около 5 гб. Поэтому привожу ссылки на данные. 
+-- https://www.kaggle.com/datasets/ashutosh69/fire-and-smoke-dataset
+-- https://www.kaggle.com/datasets/phylake1337/fire-dataset
+-- https://www.kaggle.com/datasets/mikhailma/house-rooms-streets-image-dataset
+-- https://www.kaggle.com/datasets/kutaykutlu/forest-fire
+-- https://www.kaggle.com/datasets/atulyakumar98/test-dataset
 Deep Learning (семестр 1, осень 2023). Финальный проект. Detection
 "Основная часть: 
 - настройка нейросети-детектора
